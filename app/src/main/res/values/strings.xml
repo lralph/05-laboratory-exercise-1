@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SHSSTUDENTREGISTRATION</string>
+    <string-array name="planets_array">
+        <item>ABM</item>
+        <item>BSIT</item>
+        <item>BSCS</item>
+        <item>BSMT</item>
+        <item>MSIT</item>
+        <item>MSCS</item>
+    </string-array>
+</resources>
